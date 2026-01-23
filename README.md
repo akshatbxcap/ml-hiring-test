@@ -68,25 +68,6 @@ See `sample_submission.csv` for an example format.
 > - This is a **difficult problem** - we expect accuracy numbers to be relatively low. Don't be discouraged!
 > - **We encourage all submissions** if you've put in genuine effort. Your approach and thought process matter as much as the final accuracy.
 
-## Rules
-
-1. **Clone this repository** (do NOT fork - forks are publicly visible)
-2. Create your own **new repository** with your solution
-3. Any prediction method is allowed as long as you use **open-source tools only**
-4. Do not use external data sources to augment predictions
-5. Make your repository **public** so we can review your code
-
-## How to Submit
-
-1. Clone this repo: `git clone https://github.com/akshatbxcap/ml-hiring-test.git`
-2. Create a new repository on your GitHub account
-3. Add your code and generate your `submission.csv` file
-4. Push to your new repository
-5. Submit via this form: **[Submission Form](YOUR_FORM_URL_HERE)**
-   - Include your GitHub repository URL
-   - Upload your `submission.csv`
-6. **One submission per candidate** - make sure your CSV is correct before submitting!
-
 ## Evaluation Criteria
 
 You will be evaluated on:
